@@ -13,3 +13,42 @@ Railway Riders Travel Analysis is a Python-based data analysis project that expl
 - Understand the financial impact of cancellations
 - Identify key operational insights
 ## Dataset
+[Railway Dataset](https://github.com/Ane-esha/PYTHON-PROJECT-2/blob/main/railway.csv)
+## Tools and Technologies
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+- ## Analysis Performed
+
+The project includes:
+
+- Data cleaning and preprocessing
+- Missing-value handling
+- Duplicate checking
+- Outlier detection
+- Exploratory Data Analysis
+- Monthly ticket analysis
+- Route analysis
+- Peak-hour analysis
+- Journey-status analysis
+- Delay and cancellation analysis
+- Revenue analysis
+- Month-on-month revenue analysis
+- Data visualization
+- 
+## Key Insights
+
+- Passenger demand remained relatively stable from January to April.
+- March recorded the highest number of ticket purchases and the highest revenue.
+- Online ticket purchasing was more popular than station purchasing.
+- Morning and evening hours showed the highest travel demand.
+- Approximately 94% of successful journeys were on time.
+- Weather, signal failures, and technical issues were the major causes of delays.
+- Signal failure created the largest cancellation-related revenue loss.
+- Cancellation-related ticket value represented approximately 6.33% of total revenue.
+
+## Conclusion
+
+The analysis shows that the railway network has relatively stable demand and generally good service reliability. However, peak travel periods and operational issues such as weather disruptions, signalling failures, and technical problems remain important areas for improvement. Addressing these factors could improve punctuality, reduce cancellations, and protect railway revenue.
+
